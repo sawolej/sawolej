@@ -1,6 +1,3 @@
-### Please do not tap on glass
-Please enter slowly while singing Ave Maria to avoid an incident
-
 
 <!--
 **sawolej/sawolej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
